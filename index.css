@@ -1,0 +1,38 @@
+.container{
+    width: 300px;
+    height: 255px;
+margin: auto;
+margin-top: 50px;}
+.item{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(77, 15, 191);
+    float: left;
+    margin: 5px;
+    font-size: 50px;
+    padding:2px 0px ;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#title{
+    text-align: center;
+    background-color: rgb(21, 5, 50);
+width: 260px;
+padding: 5px;
+font-size: 30px;
+color: white;
+text-transform: uppercase;
+}
+.item:hover{
+    background-color: rgb(255, 0, 0);
+}
+
+span{
+    color:orange
+}
+body{
+    background-image: url(blurry-gradient-haikei\(1\).svg);
+    background-position: center;
+    background-size: cover;
+}
