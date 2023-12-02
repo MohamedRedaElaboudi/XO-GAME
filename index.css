@@ -33,8 +33,7 @@ span{
 }
 body{
     background-image: url(blurry-gradient-haikei\(1\).svg);
-    background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     
 }
